@@ -13,7 +13,7 @@ bridges to how professional credit analysts actually work.
 
 ## What is this project?
 
-I am a Manik Mittal , a CA Finalist learning private credit in public.
+I am  Manik Mittal , a CA Finalist learning private credit in public.
 
 Not expert commentary. Just one CA student building the analytical 
 toolkit of a credit analyst — one concept at a time — and sharing 
