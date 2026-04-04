@@ -28,26 +28,13 @@ LinkedIn series: https://www.linkedin.com/posts/manik-mittal-473847295_day-0130-
 CA students or anyone curious about private credit, direct lending, and 
 institutional finance. Every model is built from accounting 
 fundamentals — no prior finance knowledge assumed.
-
 ---
-
 ## How to use this
 
 Each file has a docstring explaining what it does and how to run it.
 
 Change the input numbers at the bottom of each file to model your 
 own deal. Every model is designed to be modified — not just read.
-
----
-
-## Series progress
-
-| Day | Topic | Model |
-|-----|-------|-------|
-| 01 | What is private credit | — |
-| 02 | Capital structure — the debt building | day2_capital_structure.py |
-
-*Updated daily.*
 
 ---
 
